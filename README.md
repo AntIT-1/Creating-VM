@@ -26,7 +26,7 @@ In this tutorial, I will demonstrate how to create a Virtual Machine in Azure cl
 
   
 
-- Now that the VM has been created, it's time to remote log in to it. In the list of VMs, click on VM1. In your local computer, search for the remote desktop connection.
+- Now that the VM has been created, it's time to remote log in to it. In the list of VMs, click on VM1. 
   ![image](https://github.com/AntIT-1/Creating-VM/assets/141161539/8f8214ec-43d2-403d-aa44-2e58becb890d)
 - Find the public IP address. Copy the IP address
   
