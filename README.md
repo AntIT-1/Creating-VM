@@ -3,7 +3,7 @@
 
 
 <h1>How to create a Virtual Machine in Azure </h1>
-In this tutorial, I will demonstrate how to create a Virtual Machine in Azure cloud.<br />
+In this tutorial I will demonstrate how to create a Virtual Machine in Azure cloud.<br />
 
 
 <h2>Deployment and Configuration Steps</h2>
