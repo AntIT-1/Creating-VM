@@ -8,7 +8,7 @@ In this tutorial I will demonstrate how to create a Virtual Machine in Azure clo
 
 <h2>Deployment and Configuration Steps</h2>
 
-- First you must sign up to Microsoft Azure and set up a subscription. Once your setup with a subscription you will able to create the Virtual machine.
+- First you must sign up to Microsoft Azure and set up a subscription. Once a subscription has been setup, you will able to create the Virtual machine.
   
   ![image](https://github.com/AntIT-1/Creating-VM/assets/141161539/e02f85cd-619b-482a-8a7c-2e444558b869)
  
