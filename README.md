@@ -38,11 +38,11 @@ In this tutorial I will demonstrate how to create a Virtual Machine in Azure clo
   ![image](https://github.com/AntIT-1/Creating-VM/assets/141161539/16fe094c-ea18-4542-b223-9c2e5907ef3d)
   
 - In your local computer, search for the remote desktop connection and paste the VM's public IP address.
-- 
+ 
   ![image](https://github.com/AntIT-1/Creating-VM/assets/141161539/b9b2b8c6-79c7-45d1-897c-1fe933948a2b)
   
 - Enter the username and password that was entered when setting up the VM in the Azure Portal.
-- 
+ 
   ![image](https://github.com/AntIT-1/Creating-VM/assets/141161539/2e2033d2-db24-4cbd-a65a-61abe3f82775)
   
 - Setup of the Azure Virtual Machine is now completed.
